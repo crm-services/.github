@@ -1,5 +1,5 @@
 ---
-title: "#TASK_ID[📝 CODE REVIEW] - PR_NAME"
+name: "#TASK_ID[📝 CODE REVIEW] - PR_NAME"
 ---
 
 ## 📝 Qual tipo da PR? (Marcar todos se aplicável)
