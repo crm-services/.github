@@ -1,4 +1,4 @@
-#TASK_ID[📝 CODE REVIEW] - PR_TITLE"
+#TASK_ID[📝 CODE REVIEW] - PR_TITLE
 
 ## 📝 Qual tipo da PR? (Marcar todos se aplicável)
 
